@@ -1,4 +1,4 @@
-#Github Search Repositories App:
+# Github Search Repositories App:
 
 This application is a RESTful service to manage GitHub repositories and bookmarks, it contains two parts Frontend and backend.
 
