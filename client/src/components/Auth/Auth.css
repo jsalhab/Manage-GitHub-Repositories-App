@@ -1,0 +1,60 @@
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow: hidden;
+  background: white;
+}
+
+.authentication form {
+  margin: 20px;
+}
+
+.authentication h2 {
+  font-family: cursive;
+}
+
+.authentication input {
+  width: 100%;
+  font: inherit;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+
+.authentication .btn {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #ff0055;
+  border-radius: 4px;
+  background: #ff0055;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.authentication .switch-btn {
+  background: transparent;
+  color: #ff0055;
+}
+
+.authentication .error-msg {
+  color: #e60000;
+  text-align: left;
+  font-size: 14px;
+  text-align: left;
+  margin-top: -12px;
+  padding: 8px 0;
+}

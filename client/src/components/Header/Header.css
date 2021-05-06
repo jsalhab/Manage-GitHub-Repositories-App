@@ -1,0 +1,49 @@
+header {
+  font-size: 2rem;
+  font-family: cursive;
+  padding: 0.5rem 1rem;
+  box-shadow: 0px 0px 5px #cdcdcd;
+  background: linear-gradient(87deg, #172b4d, #1a174d) !important;
+  color: #f1f1f1;
+}
+
+.jumbotron {
+  background: #fff;
+  height: 300px;
+  display: flex;
+  color: #8898aa;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  background: linear-gradient(87deg, #172b4d, #1a174d) !important;
+}
+.jumbotron .heading {
+  font-size: 4rem;
+  font-family: cursive;
+}
+.jumbotron .subHeading {
+  margin-top: 1rem;
+  font-size: 20px;
+}
+
+.links {
+  margin: 20px;
+}
+
+.links a {
+  padding: 20px;
+  color: #8898aa;
+}
+
+.log-out {
+  text-decoration: underline;
+  background-color: unset;
+  background: none !important;
+  border: none;
+  padding: 20px;
+  color: #8898aa;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}

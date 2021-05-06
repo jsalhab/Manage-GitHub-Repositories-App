@@ -1,0 +1,12 @@
+export const START_SEARCHING = "START_SEARCHING";
+export const SEARCH_REPO = "SEARCH_REPO";
+export const ADD_BOOKMARK = "ADD_BOOKMARK";
+export const DELETE_BOOKMARK = "DELETE_BOOKMARK";
+export const FETCH_BOOKMARKS = "FETCH_BOOKMARKS";
+export const FETCH_REPOS_FAILD = "FETCH_REPOS_FAILD";
+export const LOGIN = "LOGIN";
+export const SIGNUP = "SIGNUP";
+export const FAILD_REQUEST = "FAILD_REQUEST";
+export const SET_TOKEN = "SET_TOKEN";
+export const LOGOUT = "LOGOUT";
+export const RESET_SEARCH = "RESET_SEARCH";
