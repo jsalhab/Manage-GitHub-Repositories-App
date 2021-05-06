@@ -4,12 +4,12 @@ This application is a RESTful service to manage GitHub repositories and bookmark
 
 ## Backend part has the following endpoints:-
 
-1- An endpoint that takes a search term and returns a list of repositories.
-2- An endpoint that allows bookmarking a repository by its id.
-3- An endpoint to get all bookmarked repositories.
-4- An endpoint to remove a bookmark.
-5- An endpoint to log in a user.
-6- An endpoint to sign up a user.
+1- An endpoint that takes a search term and returns a list of repositories. <br/>
+2- An endpoint that allows bookmarking a repository by its id.<br/>
+3- An endpoint to get all bookmarked repositories.<br/>
+4- An endpoint to remove a bookmark.<br/>
+5- An endpoint to log in a user.<br/>
+6- An endpoint to sign up a user.<br/>
 
 ## Dexcriopns for the endpoints:
 
